@@ -1,0 +1,8 @@
+[23-Jun-2017 19:03:12 Asia/Kolkata] PHP Notice:  Undefined variable: run in /home/seoxprts/public_html/consultent/admin/login.php on line 25
+[23-Jun-2017 19:03:12 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/seoxprts/public_html/consultent/admin/login.php on line 25
+[26-Jun-2017 10:24:38 Asia/Kolkata] PHP Notice:  Undefined variable: run in /home/seoxprts/public_html/consultent/admin/login.php on line 25
+[26-Jun-2017 10:24:38 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/seoxprts/public_html/consultent/admin/login.php on line 25
+[28-Jun-2017 17:33:11 Asia/Kolkata] PHP Notice:  Undefined variable: run in /home/seoxprts/public_html/consultent/admin/login.php on line 25
+[28-Jun-2017 17:33:11 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/seoxprts/public_html/consultent/admin/login.php on line 25
+[28-Jun-2017 17:36:08 Asia/Kolkata] PHP Notice:  Undefined variable: run in /home/seoxprts/public_html/consultent/admin/login.php on line 25
+[28-Jun-2017 17:36:08 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/seoxprts/public_html/consultent/admin/login.php on line 25
